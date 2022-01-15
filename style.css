@@ -1,0 +1,22 @@
+body{
+    background: cover center ;
+
+}
+.heading{
+    background-color: #e63959;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    box-shadow: 5px 5px 5px rgb(207, 90, 90);
+}
+a {
+    border: 5px ridge rgb(104, 153, 245);
+    border-radius: 50%;
+    box-shadow:5px 5px 5px darkcyan;
+    font-size: 30px;
+    font-family: serif;
+    background: white;
+    width: 50%;
+    color: black;
+    text-align: center;
+    
+}
