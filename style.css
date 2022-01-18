@@ -1,5 +1,6 @@
 body{
-    background: cover center ;
+    background-size: cover;
+    background-position:center;
 
 }
 .heading{
